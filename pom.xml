@@ -21,7 +21,7 @@
 		<spring.boot.admin.version>1.5.3</spring.boot.admin.version>
 
 		<!--kafka-->
-		<kafka.version>0.10.2.0</kafka.version>
+		<kafka.version>0.10.2.2</kafka.version>
 
 		<!-- 嵌入式的关系数据库，用于单元测试 -->
 		<h2.version>1.4.192</h2.version>
